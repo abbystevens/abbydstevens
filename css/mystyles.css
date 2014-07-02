@@ -1,3 +1,7 @@
+html {
+	font-color: red;
+}
+
 #top {
 	  background: url(../img/tree.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -5,6 +9,11 @@
   -o-background-size: cover;
   background-size: cover;
   
+}
+
+.portfolio {
+	color: #333333;
+	background-color: #A7B1BA;
 }
 
 .btn {
