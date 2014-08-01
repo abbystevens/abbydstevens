@@ -11,6 +11,14 @@ html {
   
 }
 
+.vert-text h1 {
+	margin-top: 100px;
+}
+
+.banner-social-buttons {
+	margin-top: 150px;
+}
+
 .portfolio {
 	color: #333333;
 	background-color: #A7B1BA;
@@ -18,4 +26,29 @@ html {
 
 .btn {
 	background-color: #98A6B5;
+}
+
+.banner-social-buttons {
+	width: 120px;
+}
+
+.img-portfolio {
+	height: 175px;
+}
+
+.profilePic {
+	width: 300px;
+}
+
+.twitter-timeline {
+	height: 300px;
+}
+
+
+/* MEDIA QUERIES ================================================= */
+
+@media (max-width: 408px) {
+	.google {
+		margin-top: 10px;
+	}
 }
