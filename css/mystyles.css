@@ -15,10 +15,6 @@ html {
 	margin-top: -100px;
 }
 
-.banner-social-buttons {
-	margin-top: 150px;
-}
-
 .portfolio {
 	color: #333333;
 	background-color: #A7B1BA;
@@ -41,7 +37,7 @@ html {
 }
 
 .twitter-timeline {
-	height: 310px;
+	height: 350px;
 	margin-top: 20px;
 }
 
@@ -50,7 +46,6 @@ html {
 }
 
 #contact {
-	margin-top: -150px;
 	margin-bottom: 50px;
 }
 
