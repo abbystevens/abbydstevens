@@ -12,7 +12,7 @@ html {
 }
 
 .vert-text h1 {
-	margin-top: 100px;
+	margin-top: -100px;
 }
 
 .banner-social-buttons {
@@ -41,14 +41,22 @@ html {
 }
 
 .twitter-timeline {
-	height: 300px;
+	height: 310px;
+	margin-top: 20px;
 }
 
+.timeline {
+	text-align: center;
+}
+
+#contact {
+	margin-top: -150px;
+	margin-bottom: 50px;
+}
 
 /* MEDIA QUERIES ================================================= */
 
 @media (max-width: 408px) {
-	.google {
-		margin-top: 10px;
+	.vert-text h1 {
+		margin-top: -155px;
 	}
-}
